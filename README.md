@@ -1,1 +1,1 @@
-Report available at [tradewar_sovereign_default_risk/MarketReport.pdf](./MarketReport.pdf)
+[![Preview of Report](./MarketReportPreview.jpeg)](./MarketReport.pdf)
